@@ -22,6 +22,7 @@ Este trabalho compara o desempenho de quatro algoritmos clássicos de busca de c
 | **Python** | BFS, DFS, Dijkstra e A* | [implementacao-buscas-python](https://github.com/Codigos-Fontes-Analise-Comparativa/implementacao-buscas-python) |
 | **Elixir** | BFS, DFS, Dijkstra e A* | [buscar_elixir](https://github.com/Codigos-Fontes-Analise-Comparativa/buscar_elixir) |
 | **Gerador de mapas (C#)** | Gera labirintos perfeitos e cavernas | [gerador_de_labirintos](https://github.com/Codigos-Fontes-Analise-Comparativa/gerador_de_labirintos) |
+| **Logs e Mapas Utilizados** | Contém os logs de todas as execuções e mapas utilizados | [gerador_de_labirintos](https://github.com/Codigos-Fontes-Analise-Comparativa/gerador_de_labirintos) |
 
 As instruções de uso do gerador de mapas estão no README do repositório [gerador_de_labirintos](https://github.com/Codigos-Fontes-Analise-Comparativa/gerador_de_labirintos).
 
